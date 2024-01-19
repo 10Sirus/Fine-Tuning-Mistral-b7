@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @10Sirus
 - 👀 I’m interested in web developement and machine learning
 - 🌱 I’m currently learning React Js and pyhton
-- 💞️ I’m looking to collaborate on projects that require a react frontend 
+- 💞️ I’m looking to collaborate on projects that would greatly utilize my skills and give me a chance to grow  
 - 📫 Mail me at shahzeb.suri10@gmail.com
 
 <!---
